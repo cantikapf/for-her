@@ -1030,7 +1030,7 @@ body {
   left: 268px;
   width: 30px;
   height: 30px;
-  background-color: #0f33ff;
+  background-color: #0c0c0c;
   border-radius: 50%;
 }
 .about--banner h2::after {
@@ -1040,7 +1040,7 @@ body {
   left: 255px;
   width: 10px;
   height: 10px;
-  background-color: #0f33ff;
+  background-color: transparent;
 }
 .about--banner a {
   padding: 5px 17px 5px 0;
