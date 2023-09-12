@@ -1003,6 +1003,7 @@ body {
   border: 5px solid #0c0c0c;
   border-right-color: transparent;
   border-bottom-color: transparent;
+  opacity: 0%;
 }
 .about--banner::after {
   content: "";
@@ -1014,6 +1015,7 @@ body {
   width: 10px;
   height: 10px;
   background-color: #0c0c0c;
+  opacity: 0%;
 }
 .about--banner h2 {
   position: relative;
@@ -1032,6 +1034,7 @@ body {
   height: 30px;
   background-color: #0c0c0c;
   border-radius: 50%;
+  opacity: 0%;
 }
 .about--banner h2::after {
   content: "";
